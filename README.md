@@ -1,2 +1,1 @@
-# Gitworkshoptest
-Git workshop tutotial
+ Gitworkshoptest!
